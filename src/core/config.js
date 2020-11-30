@@ -5,7 +5,7 @@ import {
   noop,
   identity
 } from 'shared/util'
-
+// TODO: wadejs-2
 import { LIFECYCLE_HOOKS } from 'shared/constants'
 
 export type Config = {
